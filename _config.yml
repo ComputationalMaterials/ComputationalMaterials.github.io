@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "How can we apply machine learning in experiments?"
   - text: "Where can I find programming resources for materials researchers?"
 
-me-img: "/img/logo.png"
+me-img: "/img/octohedron.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
