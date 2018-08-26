@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://computationalmaterials.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,11 +12,11 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-124603873-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Computational Materials at Berkeley"
+title: "{ CM@B }"
+description: "Supporting the computational materials community at the University of California, Berkeley."
+keywords: "berkeley, computational materials, materials science, python, Cal"
 favicon: "/img/favicon.ico"
 
 ################
@@ -51,12 +51,13 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 15
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "<code>> def predict_material(application):</code>"
+  - text: "Can an AI understand chemistry?"
+  - text: "How can experimentalists take advantage of machine learning?"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -122,7 +123,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -132,11 +133,14 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "August 23, 2018"
+    description: "Officer kickoff \nLocation: HMMB Grad Bay"
+  - image: "/img/timeline/spidertocat.png"
+    date: "August 30, 2018"
+    description: "Fall 2018 General Meeting \nLocation: 348 Hearst Memorial Mining Building"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Fall 2018"
+    description: "Talks, workshops, social events, and more!"
 
 # First image of the Timeline
 
@@ -169,9 +173,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/ComputaionalMaterials"
   - title: "rss"
     url: "/feed.xml"
 
@@ -185,9 +187,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+# keybase-username: johnsmith
+# keybase-in-social: True
+# keybase-in-footer: True
 
 ################################################################################
 
@@ -198,7 +200,7 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Events: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
