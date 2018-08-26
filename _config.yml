@@ -200,9 +200,9 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Events: 'timeline'
+  Events: 'events'
   Blog: 'latest-post'
-  Join: 'contact'
+  Join: 'join'
 
 # Exclusion list from the generated _site
 
