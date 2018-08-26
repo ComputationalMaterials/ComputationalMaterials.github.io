@@ -55,7 +55,7 @@ type-speed: 15
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "<code>> def predict_material(application):</code>"
+  - text: "> def predict_material(application):"
   - text: "Can an AI understand chemistry?"
   - text: "How can we use machine learning in experiments?"
 
