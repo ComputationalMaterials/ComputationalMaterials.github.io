@@ -6,7 +6,7 @@ category: sponsors
 tags: [ 'sponsorship' ]
 ---
 
-## Sponsor Computational Materials at Berkeley
+## Sponsor CM@B
 
-If your company or organization is interested in sponsoring CM@B or hosting an event with our members, please get in touch with our chair, [John Dagdelen](jdagdelen@berkeley.edu).
+If your company or organization is interested in sponsoring *Computational Materials at Berkeley* or hosting an event with our members, please get in touch with our chair, [John Dagdelen](jdagdelen@berkeley.edu).
 
