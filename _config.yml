@@ -56,8 +56,9 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "def predict_material(application='battery'): "
-  - text: "Can an AI understand chemistry? "
-  - text: "How can we use machine learning in experiments? "
+  - text: "Can an AI understand chemistry?"
+  - text: "How can we apply machine learning to experiments?"
+  - text: "How can I start using Python in my research?"
 
 me-img: "/img/logo.png"
 
