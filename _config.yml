@@ -133,7 +133,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/icons/learning/png/028-light-bulb.png"
+  - image: "/img/icons/learning/png/029-light-bulb.png"
     date: "August 23, 2018"
     description: "Officer kickoff \nLocation: HMMB Grad Bay"
   - image: "/img/icons/learning/png/011-communication.png"    
@@ -145,7 +145,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/icons/learning/png/034-microscope.png"
 
 ###########
 # Contact #
