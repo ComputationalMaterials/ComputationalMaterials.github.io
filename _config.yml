@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "def predict_material(application='battery'): "
   - text: "Can an AI understand chemistry?"
   - text: "How can we apply machine learning in experiments?"
-  - text: "What programming resources exist for materials reserachers?"
+  - text: "Where can I find programming resources for materials researchers?"
 
 me-img: "/img/logo.png"
 
