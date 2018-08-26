@@ -201,7 +201,7 @@ pages_list:
   About: 'about'
   Events: 'timeline'
   Blog: 'latest-post'
-  Join: 'join'
+  Join: 'contact'
 
 # Exclusion list from the generated _site
 
