@@ -86,7 +86,7 @@ a {
 
     /* Fix height limit and scroll for small screen and many items menu */
     max-height: 100%;
-    overflow-y: auto;
+    text-overflow: "CM@B";
 
     .navbar-toggle {
         padding: 4px 6px;
