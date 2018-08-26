@@ -6,8 +6,9 @@
     <div class="col-md-10 col-md-offset-1">
 
       {{ page.content | markdownify }}
-
-<!–– 
+      
+      <p><a href="https://mailchi.mp/f1856d1d242e/compmatsci" target="_blank">Sign Up Here</a></p>
+      
       {% if site.email %}
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
@@ -25,12 +26,10 @@
               </script>
             </p>
         {% else %}
-          <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          <p>Or <a href="mailto:{{ site.email }}"> get in touch.</a></p>
         {% endif %}
       {% endif %}
-––>
-      <p><a href="https://mailchi.mp/f1856d1d242e/compmatsci" target="_blank">Sign Up Here</a></p>
-      <p>Or<a href="mailto:{{ site.email }}">get in touch.</a></p>
+
     </div>
   </div>
 </section>
