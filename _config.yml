@@ -162,7 +162,7 @@ email: "jdagdelen@berkeley.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Computational Materials at Berkeley is a Registered Student Organization of UC Berkely."
+author_blurb: "Computational Materials at Berkeley is a Registered Student Organization of UC Berkeley."
 author_blurb_image: "/img/octohedron.png"
 
 ##################
