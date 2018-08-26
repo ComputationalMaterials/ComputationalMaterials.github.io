@@ -57,9 +57,9 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "<code>> def predict_material(application):</code>"
   - text: "Can an AI understand chemistry?"
-  - text: "How can experimentalists take advantage of machine learning?"
+  - text: "How can we use machine learning in experiments?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/logo.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -199,9 +199,9 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Events: 'timeline'
-  Contact: 'contact'
+  Blog: 'latest-post'
+  Join: 'join'
 
 # Exclusion list from the generated _site
 
