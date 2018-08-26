@@ -31,6 +31,7 @@ force-https: True
 lang: "en"
 author: "Computational Materials at Berkeley"
 title: "{ Computational Materials at Berkeley }"
+email: "jdagdelen@berkeley.edu"
 description: "Supporting the computational materials community at the University of California, Berkeley."
 keywords: "berkeley, computational materials, materials science, python, Cal"
 favicon: "/img/favicon.ico"
