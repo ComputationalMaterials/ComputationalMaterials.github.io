@@ -137,12 +137,12 @@ events:
   - image: "/img/icons/learning/png/042-science.png" 
     date: "Fall 2018"
     description: "Talks, workshops, social events, and more!"
-  - image: "/img/icons/learning/png/011-communication.png"    
-    date: "August 30, 2018"
-    description: "Fall 2018 General Meeting. Location: 348 Hearst Memorial Mining Building"
   - image: "/img/icons/learning/png/029-light-bulb.png"
     date: "August 23, 2018"
     description: "Officer Kickoff. Location: HMMB Grad Bay"
+#  - image: "/img/icons/learning/png/011-communication.png"    
+#    date: "August 30, 2018"
+#    description: "Fall 2018 General Meeting. Location: 348 Hearst Memorial Mining Building"
 
 # First image of the Timeline
 
