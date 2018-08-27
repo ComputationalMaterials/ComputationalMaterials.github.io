@@ -61,7 +61,7 @@ lines: # You can add HTML Tags in the Text
   - text: "How can we apply machine learning in our experiments?"
   - text: "Where can I find programming resources for materials researchers?"
 
-me-img: "/img/octohedron_new.png"
+me-img: "/img/white_logo_v2.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -163,7 +163,7 @@ email: "jdagdelen@berkeley.edu"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Computational Materials at Berkeley is a Registered Student Organization of UC Berkeley."
-author_blurb_image: "/img/new_octohedron.png"
+author_blurb_image: "/img/white_logo_v2.png"
 
 ##################
 # Social Buttons #
