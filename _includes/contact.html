@@ -5,12 +5,12 @@
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
 
-      {{ page.content | markdownify }}
-      
       <p><a href="https://mailchi.mp/f1856d1d242e/compmatsci" target="_blank">Sign Up Here</a></p>
       
+      {{ page.content | markdownify }}
+      
       {% if site.email %}
-        <p>Or <a href="mailto:{{ site.email }}"> get in touch.</a></p>
+      <p>Still have questions? <a href="mailto:{{ site.email }}"> Send us an email.</a></p>
       {% endif %}
 
     </div>
