@@ -55,12 +55,12 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 15
 start-delay: 200
 delete-delay: 5000
+#lines: # You can add HTML Tags in the Text
+#  - text: "def predict_material(application='battery'): "
+#  - text: "Can an AI understand chemistry?"
+#  - text: "How can we apply machine learning in our experiments?"
+#  - text: "Where can I find programming resources for materials researchers?"
 lines: # You can add HTML Tags in the Text
-  - text: "def predict_material(application='battery'): "
-  - text: "Can an AI understand chemistry?"
-  - text: "How can we apply machine learning in our experiments?"
-  - text: "Where can I find programming resources for materials researchers?"
-short_lines: # You can add HTML Tags in the Text
   - text: "Can an AI understand chemistry?"
   - text: "Can ML help guide experiments?"
   - text: "Is computation just for theorists? 
