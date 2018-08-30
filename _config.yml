@@ -140,7 +140,7 @@ events:
   - image: "/img/icons/learning/png/029-light-bulb.png"
     date: "August 23, 2018"
     description: "Officer Kickoff. Location: HMMB Grad Bay"
-  - image: "/img/icons/learning/png/011-communication.png"    
+  - image: "/img/speakers/Anubhav_Jain.jpg"    
     date: "October 16, 2018"
     description: "CM@B Speaker Series: Anubhav Jain on Machine Learning and Materials Design"
 #  - image: "/img/icons/learning/png/011-communication.png"    
