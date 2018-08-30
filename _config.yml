@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Can an AI understand chemistry?"
   - text: "How can we apply machine learning in our experiments?"
   - text: "Where can I find programming resources for materials researchers?"
-short-lines: # You can add HTML Tags in the Text
+short_lines: # You can add HTML Tags in the Text
   - text: "Can an AI understand chemistry?"
   - text: "Can ML help guide experiments?"
   - text: "Is computation just for theorists? 
