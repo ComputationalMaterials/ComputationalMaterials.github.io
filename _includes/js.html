@@ -114,7 +114,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   <script type="text/javascript" src="{{site.baseurl}}/js/typed.min.js"></script>
   <script type="text/javascript">
-  {% if $(window).width() < 480}
+  {% if screen.width() < 500}
     var myQuotes =  new Array();
     {% for line in site.lines %}
       myQuotes.push("{{ line.text }}");
