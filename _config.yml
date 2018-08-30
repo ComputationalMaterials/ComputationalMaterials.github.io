@@ -166,7 +166,7 @@ email: "jdagdelen@berkeley.edu"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Computational Materials at Berkeley is a Registered Student Organization of UC Berkeley."
-author_blurb_image: "/img/octahedron_new.png"
+author_blurb_image: "/img/logo_200px.png"
 
 ##################
 # Social Buttons #
