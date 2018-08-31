@@ -138,7 +138,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/icons/learning/png/042-science.png" 
+  - image: "/img/icons/smashicon/leaf.png" 
     date: "Fall 2018"
     description: "Talks, workshops, social events, and more!"
   - image: "/img/icons/smashicon/beer.png"
@@ -156,7 +156,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/octohedron_new.png"
+timeline-img: "/img/icons/learning/png/042-science.png"
 
 ###########
 # Contact #
