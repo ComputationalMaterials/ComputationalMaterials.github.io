@@ -7,7 +7,7 @@ tags: [ 'events' ]
 ---
 # CM@B Speaker Series
 ## André Schleife: 
-### Time:TBA, November 18, 2018
+### Time: TBA, Thursday November 8, 2018
 ### 290 Hearst Memorial Mining Building
 
 
