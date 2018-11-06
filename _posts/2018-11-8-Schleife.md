@@ -10,6 +10,7 @@ tags: [ 'events' ]
 ### Time: 12pm, Thursday November 8, 2018
 ### 290 Hearst Memorial Mining Building
 
+![Andre Schleife]("/img/speakers/Andre_Schleife.jpg")
 
 #### Abstract
 High-performance computing enables quantum-mechanical studies of material properties with unprecedented accuracy: In particular, many-body perturbation theory is capable of predicting electronic and optical properties in excellent agreement with experiment. Dynamics of excited electrons that interact with fast-moving ions can be investigated accurately and efficiently using real-time time-dependent density functional theory.
