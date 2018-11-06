@@ -6,7 +6,7 @@ category: events
 tags: [ 'events' ]
 ---
 # CM@B Speaker Series
-## André Schleife: 
+## André Schleife: Excited Slectronic States
 ### Time: 12pm, Thursday November 8, 2018
 ### 290 Hearst Memorial Mining Building
 
